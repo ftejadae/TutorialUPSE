@@ -3,3 +3,10 @@ Bienvenidos a GIT
 
 JAVAliste!
 Pruebas de contenido
+
+public static void main(string[] args)
+{
+        obj1 = new class();
+}
+
+Estamos en clase de git
